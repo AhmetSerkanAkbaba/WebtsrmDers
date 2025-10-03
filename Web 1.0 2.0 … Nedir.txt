@@ -1,0 +1,35 @@
+Web 1.0 2.0 … Nedir?
+
+İnternetin gelişim aşamalarını açıklarken web 1.0,2.0 … gibi kullanılır.
+
+ Web: internetteki internetteki birbirine bağlı sayfalar, siteler ve içeriklerin oluşturduğu büyük bilgi ağıdır.
+
+ internetin üzerinde çalışan ve web tarayıcıları (chrome,firefox…) arayıcığıyla erişilen siteler topluluğudur.
+ 
+ Web sayesinde metin, resim, video, ses gibi pek çok içerik paylaşılır ve kullanıcılar bu bilgilere ulaşabilir.
+
+Web 1.0 Nedir?(internetin ilk hali)
+
+ *statik web sayfaları, kullanıcılar sadece içerikleri okuyabilir.içerik
+üretimi genellikle tek taraflıydı; yani kullanıcılar sadece izleyiciydi.
+
+ *içerik bilgi sunumu ağırlıklı, çok az etkileşim(örenğin,kişisel web sayfaları,haber siteleri).
+
+ *bu durum 1990 ların başı ve orta zamanları örnek olarak web te HTML ile yapılmış basit siteler, forumlar, temel katalog siteleri.
+
+Web 2.0 Ndir?(internetin sosyal ve etkileşimli hali)
+
+ *kullanıcıların içerik oluşturabildiği  , pylaşabildiği,etkileşimde bulunabildiği dinamik web. Sosyal medya,bloglar,video paylaşı siteleri gibi platformlar ön planda  
+
+ *bu duum 2000 'li yıllardan itibaren yaygınlaşmaya başladı örnek verecek olursak faceook,YouTube,Wikipedia vb.
+
+Web 3.0   NEdir?
+ 
+ *Anlamandırılmış ve akıllı internet: Web 3.0, internetin "anlamını" anlayabilen,erileri daha akıllıca işleyebilen bir yapı sunmayı hedefler.Bu, yapay zeka , makine öğrenimi ve doğal dil işleme gibi teknolojilerle mümkün olur.
+
+ *Web 2.0 da Fcebook ,Google gibi büyük şirketler interneti kontrol ederken,WEb 3.0 da blok zinciri teknolojisiyle kullanıcıların daha fazla kontrol sahii oldugu, verilern merkeziyetsiz olduğu sistemler ön plandadır 
+
+ *günümüz örneklerinden kripto para ve DEfi (merkeiyetsiz finans),akıllı sözleşmeler vb.  
+
+   
+  
