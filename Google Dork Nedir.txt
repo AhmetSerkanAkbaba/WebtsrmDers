@@ -1,0 +1,12 @@
+Google Dork Nedi?
+"Google dork" yada "Google dorking", Google arama motorunun gelişmiş operatörleri kullanılarak yapılabilen özel arama tekniklerine verilen isimdir.
+ Google Dork, Google'da belirli arama operatörleriyle hedefe yönelik, hassas veya gizli bilgileri bulmak için kullanılan arama sorgularıdır. Bu sorgular, normal aramalardan farklı olarak belirli dosya türlerini,web safalarında açık bırakılmış güvenlik açıklarını veya özel bilgileri keşfetmeye yarar.
+
+
+ Google Dork teknikleri?
+örnek birkaç tane verecek olursak ;
+1.Dosya türü: Bu operatör belirli dosya türlerini arar. Örneğin,"filetype:pdf",pdf dosyalarını döndürür.
+
+2.inurl:'inurl:', operatörü, bir sayfanın URL'sindeki berirli kelimeleri bulmak için kullanılabilir. Örneğin, 'inurl:login',URL'sinde 'login' bulunan sayfaları döndürür.
+
+3. intext :'intext:' operatörüyle, bir web sayfasının içeriğine berlirli bir metni arayabilirsiniz. Örneğin,'intext:"password"',"password" kelimesini ieren safaarı verir.(vb)
